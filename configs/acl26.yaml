@@ -1,0 +1,5 @@
+seed: 42
+router_experts: 8
+hidden_dim: 512
+lr: 0.001
+batch_size: 128
